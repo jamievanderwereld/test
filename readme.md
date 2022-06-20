@@ -15,7 +15,7 @@ The "canonical" implementation is now based on Spring Boot, Thymeleaf and [aggre
 
 ## we kunnen alle kopjes aanpassen op deze site.
 
-[hier kan je wat moois zien]([https://www.fiverr.com/shaklainsifath/design-typography-word-cloud-word-art-or-family-tree](https://www.makewordart.com/)) (2017 update)
+[hier kan je wat moois zien] ((https://www.makewordart.com/)) (2017 update)
 
 ## Running petclinic locally
 
