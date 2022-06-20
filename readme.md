@@ -6,6 +6,8 @@ gelukkig zijn tekstjes, foto's en linkjes do able als je html en css kennis hebt
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=spring-petclinic_spring-framework-petclinic&metric=coverage)](https://sonarcloud.io/dashboard?id=spring-petclinic_spring-framework-petclinic)
 
 Ik kan hier alle tekst aanpassen door middel van de readme file in github [klik hier voor een mooie verrassing](https://urlshortner.org/3VTzh).
+
+
 It allows the Spring community to maintain a Petclinic version with a plain old **Spring Framework configuration**
 and with a **3-layer architecture** (i.e. presentation --> service --> repository).
 The "canonical" implementation is now based on Spring Boot, Thymeleaf and [aggregate-oriented domain]([https://github.com/spring-projects/spring-petclinic/pull/200). 
@@ -13,16 +15,19 @@ The "canonical" implementation is now based on Spring Boot, Thymeleaf and [aggre
 
 ## we kunnen alle kopjes aanpassen op deze site.
 
-[hier kan je wat leuks doen]([https://www.fiverr.com/shaklainsifath/design-typography-word-cloud-word-art-or-family-tree](https://www.makewordart.com/)) (2017 update)
+[hier kan je wat moois zien]([https://www.fiverr.com/shaklainsifath/design-typography-word-cloud-word-art-or-family-tree](https://www.makewordart.com/)) (2017 update)
 
 ## Running petclinic locally
 
 ### With Maven command line
 ```
-git clone https://github.com/spring-petclinic/spring-framework-petclinic.git
-cd spring-framework-petclinic
-./mvnw jetty:run-war
-# For Windows : ./mvnw.cmd jetty:run-war
+Wat was het issue waar jamie het langst mee heeft zitten oefenen? https://stackoverflow.com/questions/5181845/git-push-existing-repo-to-a-new-and-different-remote-repo-server
+
+Create a new repo at github.
+Clone the repo from fedorahosted to your local machine.
+git remote rename origin upstream
+git remote add origin URL_TO_GITHUB_REPO
+git push origin master
 ```
 
 ### With Docker
