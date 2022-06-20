@@ -17,11 +17,11 @@ The "canonical" implementation is now based on Spring Boot, Thymeleaf and [aggre
 
 [hier kan je wat moois zien] ((https://www.makewordart.com/)) (2017 update)
 
-## Running petclinic locally
+## Het runnen van Petclinic was voor mij heel lastig omdat ik het maar niet werkend kreeg.
+Zelfs nadat ik alle directories etc wel opgezet had lukte het mij niet om deze te koppelen aan de online respository
 
-### With Maven command line
 ```
-Wat was het issue waar jamie het langst mee heeft zitten oefenen? https://stackoverflow.com/questions/5181845/git-push-existing-repo-to-a-new-and-different-remote-repo-server
+ https://stackoverflow.com/questions/5181845/git-push-existing-repo-to-a-new-and-different-remote-repo-server
 
 Create a new repo at github.
 Clone the repo from fedorahosted to your local machine.
