@@ -1,4 +1,5 @@
-# Spring PetClinic Sample Application
+# Dit is de file waar ik dingen aan moet passen.
+gelukkig zijn tekstjes, foto's en linkjes do able als je html en css kennis hebt. (of webscraping natuurlijk!!!!)
 
 [![Build Status](https://travis-ci.org/spring-petclinic/spring-framework-petclinic.svg?branch=master)](https://travis-ci.org/spring-petclinic/spring-framework-petclinic/) 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=spring-petclinic_spring-framework-petclinic&metric=alert_status)](https://sonarcloud.io/dashboard?id=spring-petclinic_spring-framework-petclinic)
@@ -10,9 +11,9 @@ and with a **3-layer architecture** (i.e. presentation --> service --> repositor
 The "canonical" implementation is now based on Spring Boot, Thymeleaf and [aggregate-oriented domain]([https://github.com/spring-projects/spring-petclinic/pull/200). 
 
 
-## Understanding the Spring Petclinic application with a few diagrams
+## we kunnen alle kopjes aanpassen op deze site.
 
-[hier zou een presentatie moeten staan](https://www.fiverr.com/shaklainsifath/design-typography-word-cloud-word-art-or-family-tree) (2017 update)
+[hier kan je wat leuks doen]([https://www.fiverr.com/shaklainsifath/design-typography-word-cloud-word-art-or-family-tree](https://www.makewordart.com/)) (2017 update)
 
 ## Running petclinic locally
 
